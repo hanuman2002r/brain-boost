@@ -1,0 +1,8 @@
+{
+  "name": "BrainBoost AI",
+  "description": "An adaptive learning platform using AI to enhance student memory and knowledge through gamified quizzes, flashcards, and visual aids.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
